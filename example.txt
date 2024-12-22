@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Line 2: This is add my main branch
+=======
+Line 2: this line is added by the feature branch
+>>>>>>> feature
+
