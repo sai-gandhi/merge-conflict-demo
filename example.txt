@@ -1,4 +1,5 @@
 
+Line 1: this is master branch
 Line 2: this line is added by the feature branch && master branch
 
 
